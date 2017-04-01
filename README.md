@@ -24,7 +24,7 @@ Once you completed the above steps, your apps settings page would something like
 1. Clone the Repository.<br>
 2. Import dbUsers.sql file through phpMyAdmin<br>
 3. Open the User.php file and modify the $dbHost, $dbUsername, $dbPassword, $dbName variables value with your MySQL database credentials.<br>
-4.Open the fbConfig.php file and specify the $appId, $appSecret, and $redirectURL as per your Facebook App credentials.<br>
+4.Open the fbConfig.php file and specify the $appId, $appSecret, and $redirectURL as per your Facebook App credentials.<br><br>
 5.Browse the index.php file in the browser and test the Login with Facebook functionality.<br>
 
 
