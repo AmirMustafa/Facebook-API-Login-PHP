@@ -62,4 +62,29 @@ $fbUser = $facebook->getUser();
 ## Tricks
 In the Facebook App Dashboard: <br>1. Site Url / Mobile Site Url is the page where fb login button exists and <br/>2. OAuth redirect URIs / Callback URI's is the page you want to get into after successful login(i.e. Website Home Login page => index.php) and this should be same as redirect url in fbconfig.php code
 
+## Preview
+
+![Screenshot of Facebook Login API](https://cloud.githubusercontent.com/assets/15896579/24581274/f7bfc444-1735-11e7-9f06-4144823512d2.png?raw=true "Screenshot of Facebook Login API")
+<br/><br/><br/>
+
+![Screenshot of Facebook Login API](https://cloud.githubusercontent.com/assets/15896579/24581272/f7be37be-1735-11e7-984a-79078e8d9120.png?raw=true "Screenshot of Facebook Login API")
+<br/><br/><br/>
+
+![Screenshot of Facebook Login API](https://cloud.githubusercontent.com/assets/15896579/24581338/e6266d22-1736-11e7-86e4-d1f00aa679b3.png?raw=true "Screenshot of Facebook Login API")
+<br/><br/><br/>
+
+![Screenshot of Facebook Login API](https://cloud.githubusercontent.com/assets/15896579/24581269/f7b96b6c-1735-11e7-833a-015dd36515f6.png?raw=true "Screenshot of Facebook Login API")
+<br/><br/><br/>
+
+![Screenshot of Facebook App Dashboard](https://cloud.githubusercontent.com/assets/15896579/24581271/f7bc5f16-1735-11e7-8382-1165cfc9d62d.png?raw=true "Screenshot of Facebook App Dashboard")
+<br/><br/><br/>
+
+![Screenshot of Facebook App Dashboard](https://cloud.githubusercontent.com/assets/15896579/24581273/f7be772e-1735-11e7-8c80-89bf645cf934.png?raw=true "Screenshot of Facebook App Dashboard")
+<br/><br/><br/>
+
+![Screenshot of Facebook App Dashboard](https://cloud.githubusercontent.com/assets/15896579/24581270/f7baa720-1735-11e7-9d30-fe3b187e5ce3.png?raw=true "Screenshot of Facebook App Dashboard")
+<br/><br/><br/>
+
+
+
 
