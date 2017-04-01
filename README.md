@@ -60,6 +60,6 @@ $fbUser = $facebook->getUser();
 ```
 
 ## Tricks
-In the Facebook App Dashboard, Site Url / Mobile Site Url is the page where fb login button exists and OAuth redirect URIs / Callback URI's is the page you want to get into after successful login(i.e. Website Home Login page => index.php) 
+In the Facebook App Dashboard, Site Url / Mobile Site Url is the page where fb login button exists and OAuth redirect URIs / Callback URI's is the page you want to get into after successful login(i.e. Website Home Login page => index.php) and this should be same as redirect url in fbconfig.php code
 
 
