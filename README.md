@@ -8,6 +8,10 @@
 This repository contains the open source PHP Login API that allows you to access the Facebook Platform from your PHP Website / App.<br><br>
 This small project helps web developers to implement the user registration with Facebook using PHP at their website. Also the user information would be stored at the MySQL database.
 
+<br/><br/><br/>
+![Screenshot of Facebook Basic Data Flow ](https://cloud.githubusercontent.com/assets/15896579/24586326/57b0d430-17bb-11e7-9435-cc94036f43d1.png?raw=true "Facebook Basic Data Flow")
+<br/><br/><br/>
+
 ## Facebook Apps Creation
 
 To access Facebook API you need to create Facebook App and specify App ID & App Secret at the time of call Facebook API. Follow the step-by-step guide to creating and configure a Facebook App from the App Dashboard.
@@ -34,6 +38,8 @@ Once you completed the above steps, your apps settings page would something like
 > **Note:** This version of the Facebook SDK for PHP requires PHP 5.4 or greater.
 
 Simple GET example of a user's profile.
+
+## Snippets
 
 ```<?php
 session_start();
