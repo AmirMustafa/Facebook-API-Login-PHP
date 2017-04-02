@@ -9,7 +9,7 @@ This repository contains the open source PHP Login API that allows you to access
 This small project helps web developers to implement the user registration with Facebook using PHP at their website. Also the user information would be stored at the MySQL database.
 
 <br/><br/><br/>
-![Screenshot of Facebook Basic Data Flow ](https://cloud.githubusercontent.com/assets/15896579/24586326/57b0d430-17bb-11e7-9435-cc94036f43d1.png?raw=true "Facebook Basic Data Flow")
+![Screenshot of Facebook Basic Data Flow ](https://cloud.githubusercontent.com/assets/15896579/24586352/430d7294-17bc-11e7-80a0-e864e9062de1.png?raw=true "Facebook Basic Data Flow")
 <br/><br/><br/>
 
 ## Facebook Apps Creation
